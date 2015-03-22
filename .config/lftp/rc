@@ -1,0 +1,16 @@
+set bmk:save-passwords true
+
+alias j jobs
+alias jv jobs -v
+alias q queue
+alias qs queue stop
+alias qd queue -d
+alias qm queue -m
+alias k kill
+alias ka kill all
+alias p pget -n 2
+alias m mirror --use-pget-n=2
+
+
+set ssl:verify-certificate no
+set cmd:prompt "lftp \[\e[01;32m\]\h\[\e[00m\]:\[\e[01;34m\]\w\[\e[00m\] % "

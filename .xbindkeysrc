@@ -1,0 +1,5 @@
+"xte 'keydown Next' 'keyup Next'"
+  b:8
+
+"xte 'keydown Prior' 'keyup Prior'"
+  b:9
